@@ -4,8 +4,6 @@
 A classic Pac-Man arcade game recreation built from scratch using Python and the Pygame library. This project faithfully implements the core mechanics of Pac-Man, including pellet-chomping, ghost-hunting, and level navigation.
 
 
-*(Image placeholder: A screenshot of the game in action would go here.)*
-
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
